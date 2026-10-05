@@ -31,11 +31,11 @@ A bank loses about 1 in 5 customers. This project asks: **which customer segment
 
 ## Dashboard
 
-**Page 1: Churn overview**
-![Page 1](images/page1.png)
+**Page 1: Churn Overview**
+![Page 1](Churn Overview.jpeg)
 
-**Page 2: Where churn concentrates**
-![Page 2](images/page2.png)
+**Page 2: Where Churn Concentrates**
+![Page 2]( Where Churn Concentrates.jpeg)
 
 ## Key Insights
 
