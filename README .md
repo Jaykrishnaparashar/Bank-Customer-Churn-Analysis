@@ -30,12 +30,8 @@ A bank loses about 1 in 5 customers. This project asks: **which customer segment
 4. **Dashboard (Power BI):** two pages, built on a single `customers` table with DAX measures (Churn Rate %, Total Customers) and calculated columns (Age Band, Balance Band, Member Status).
 
 ## Dashboard
-
-**Page 1: Churn Overview**
-![Page 1](Churn Overview.jpeg)
-
-**Page 2: Where Churn Concentrates**
-![Page 2]( Where Churn Concentrates.jpeg)
+![Churn Overview](Churn%20Overview.jpeg)
+![Where Churn Concentrates](Where%20Churn%20Concentrates.jpeg)
 
 ## Key Insights
 
@@ -62,11 +58,11 @@ A bank loses about 1 in 5 customers. This project asks: **which customer segment
 .
 ├── Bank_Customer_Churn_Analysis.ipynb   # Pandas EDA + SQL analysis
 ├── Churn_Modelling.csv                  # Dataset (Kaggle)
-├── Bank_Churn_Dashboard.pbix            # Power BI dashboard
-├── images/
-│   ├── page1.png
-│   └── page2.png
+├── Bank_churn_dashboard.pbix            # Power BI dashboard
 └── README.md
+├── Churn Overview.jpeg
+├── Where Churn Concentrates.jpeg
+
 ```
 
 ## How to Run
